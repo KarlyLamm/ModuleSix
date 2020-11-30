@@ -1,0 +1,16 @@
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\bin\Debug\netcoreapp3.1\MyOrganizationMemberApplication.exe
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\bin\Debug\netcoreapp3.1\MyOrganizationMemberApplication.deps.json
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\bin\Debug\netcoreapp3.1\MyOrganizationMemberApplication.runtimeconfig.json
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\bin\Debug\netcoreapp3.1\MyOrganizationMemberApplication.runtimeconfig.dev.json
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\bin\Debug\netcoreapp3.1\MyOrganizationMemberApplication.dll
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\bin\Debug\netcoreapp3.1\MyOrganizationMemberApplication.pdb
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\obj\Debug\netcoreapp3.1\MyOrganizationMemberApplication.csprojAssemblyReference.cache
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\obj\Debug\netcoreapp3.1\MyOrganizationMemberApplication.AssemblyInfoInputs.cache
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\obj\Debug\netcoreapp3.1\MyOrganizationMemberApplication.AssemblyInfo.cs
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\obj\Debug\netcoreapp3.1\MyOrganizationMemberApplication.csproj.CoreCompileInputs.cache
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\obj\Debug\netcoreapp3.1\MyOrganizationMemberApplication.dll
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\obj\Debug\netcoreapp3.1\MyOrganizationMemberApplication.pdb
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\obj\Debug\netcoreapp3.1\MyOrganizationMemberApplication.genruntimeconfig.cache
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\bin\Debug\netcoreapp3.1\MyOrganizationMemberLibrary.dll
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\bin\Debug\netcoreapp3.1\MyOrganizationMemberLibrary.pdb
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberApplication\obj\Debug\netcoreapp3.1\MyOrganizationMemberApplication.csproj.CopyComplete
