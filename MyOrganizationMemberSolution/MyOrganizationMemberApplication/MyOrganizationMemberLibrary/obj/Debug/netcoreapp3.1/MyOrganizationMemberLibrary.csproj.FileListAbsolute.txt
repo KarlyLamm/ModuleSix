@@ -1,0 +1,9 @@
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\bin\Debug\netcoreapp3.1\MyOrganizationMemberLibrary.deps.json
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\bin\Debug\netcoreapp3.1\MyOrganizationMemberLibrary.dll
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\bin\Debug\netcoreapp3.1\MyOrganizationMemberLibrary.pdb
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\obj\Debug\netcoreapp3.1\MyOrganizationMemberLibrary.csprojAssemblyReference.cache
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\obj\Debug\netcoreapp3.1\MyOrganizationMemberLibrary.AssemblyInfoInputs.cache
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\obj\Debug\netcoreapp3.1\MyOrganizationMemberLibrary.AssemblyInfo.cs
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\obj\Debug\netcoreapp3.1\MyOrganizationMemberLibrary.csproj.CoreCompileInputs.cache
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\obj\Debug\netcoreapp3.1\MyOrganizationMemberLibrary.dll
+D:\LU_LAMM\Fall_2020\C#\Module6\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\obj\Debug\netcoreapp3.1\MyOrganizationMemberLibrary.pdb
